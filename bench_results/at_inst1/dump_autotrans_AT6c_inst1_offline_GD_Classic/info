@@ -1,0 +1,16 @@
+name:autotrans_AT6c_inst1
+desc:autotrans_AT6c_inst1 - offline - GD_Classic
+prop:AT6c_inst1
+n_repet:50
+n_runs:300
+n_falsif:32
+best_rob:-0.0220045
+mean:18.9375
+median:23.5
+cumulative_time:1293.03
+actual_time:221.475
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350; 0,100; 0,350],"init_sample": None, "verbose": false, "meth": { "alpha": 1000 } }
+

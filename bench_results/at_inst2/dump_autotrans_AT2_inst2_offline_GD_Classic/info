@@ -1,0 +1,16 @@
+name:autotrans_AT2_inst2
+desc:autotrans_AT2_inst2 - offline - GD_Classic
+prop:AT2_inst2
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-21.6364
+mean:9.22
+median:2
+cumulative_time:57.561
+actual_time:57.561
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350; 0,100; 0,350],"init_sample": None, "verbose": false, "meth": { "alpha": 1e+07 } }
+

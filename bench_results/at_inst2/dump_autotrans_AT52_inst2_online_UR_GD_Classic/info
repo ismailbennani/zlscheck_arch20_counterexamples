@@ -1,0 +1,19 @@
+name:autotrans_AT52_inst2
+desc:autotrans_AT52_inst2 - online - UR - GD_Classic
+prop:AT52_inst2
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-0.4
+mean:35.08
+median:31
+cumulative_time:353.391
+actual_time:52.9791
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": { "alpha": 1e+07 } }
+

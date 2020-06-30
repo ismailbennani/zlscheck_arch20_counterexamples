@@ -1,0 +1,19 @@
+name:autotrans_AT53_inst2
+desc:autotrans_AT53_inst2 - online - UR - GD_Classic
+prop:AT53_inst2
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-0.5
+mean:22.7
+median:26.5
+cumulative_time:259.684
+actual_time:259.684
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": { "alpha": 1e+07 } }
+

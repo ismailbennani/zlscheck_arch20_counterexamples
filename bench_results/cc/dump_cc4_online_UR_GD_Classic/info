@@ -1,0 +1,19 @@
+name:cc4
+desc:cc4 - online - UR - GD_Classic
+prop:CC4
+n_repet:50
+n_runs:300
+n_falsif:32
+best_rob:-10
+mean:124.594
+median:164
+cumulative_time:2628.51
+actual_time:362.961
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": { "alpha": 0.01 } }
+

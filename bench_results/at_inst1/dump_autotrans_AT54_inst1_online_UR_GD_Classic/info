@@ -1,0 +1,19 @@
+name:autotrans_AT54_inst1
+desc:autotrans_AT54_inst1 - online - UR - GD_Classic
+prop:AT54_inst1
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-0.5
+mean:3.54
+median:2.5
+cumulative_time:55.4192
+actual_time:55.4193
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": { "alpha": 1000 } }
+

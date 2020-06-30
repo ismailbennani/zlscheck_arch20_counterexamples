@@ -1,0 +1,19 @@
+name:cc3
+desc:cc3 - online - UR - GD_Classic
+prop:CC3
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-10
+mean:23.38
+median:16
+cumulative_time:257.658
+actual_time:50.3735
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": { "alpha": 0.01 } }
+

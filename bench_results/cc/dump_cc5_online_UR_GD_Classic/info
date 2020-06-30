@@ -1,0 +1,19 @@
+name:cc5
+desc:cc5 - online - UR - GD_Classic
+prop:CC5
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-43.6
+mean:2.02
+median:3
+cumulative_time:1509.13
+actual_time:194.968
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": { "alpha": 0.01 } }
+

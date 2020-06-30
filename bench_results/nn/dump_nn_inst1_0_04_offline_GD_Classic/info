@@ -1,0 +1,16 @@
+name:nn_inst1_0_04
+desc:nn_inst1_0_04 - offline - GD_Classic
+prop:NN_inst1 (beta=0.04)
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-1
+mean:1.06
+median:1
+cumulative_time:360.069
+actual_time:48.5239
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3; 1,3],"init_sample": None, "verbose": false, "meth": { "alpha": 1 } }
+

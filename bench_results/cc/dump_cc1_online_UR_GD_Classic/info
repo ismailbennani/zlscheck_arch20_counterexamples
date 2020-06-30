@@ -1,0 +1,19 @@
+name:cc1
+desc:cc1 - online - UR - GD_Classic
+prop:CC1
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-189.008
+mean:8.82
+median:12.5
+cumulative_time:101.55
+actual_time:16.0483
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,1; 0,1],"init_sample": None, "verbose": false, "meth": { "alpha": 0.01 } }
+

@@ -1,0 +1,15 @@
+name:sc_inst2
+desc:sc_inst2 - offline - GD_Classic
+prop:SC
+n_repet:50
+n_runs:300
+n_falsif:0
+best_rob:0.00568228
+mean:-1
+median:-1
+cumulative_time:14976.6
+actual_time:1904.31
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01; 3.99,4.01],"init_sample": None, "verbose": false, "meth": { "alpha": 5 } }

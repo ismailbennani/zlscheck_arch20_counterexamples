@@ -1,0 +1,16 @@
+name:afc29
+desc:afc29 - offline - GD_Classic
+prop:AFC29
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-0.0105816
+mean:1.9
+median:1.5
+cumulative_time:12070.1
+actual_time:1700.22
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [900,1100; 0,61.1; 0,61.1; 0,61.1; 0,61.1; 0,61.1; 0,61.1; 0,61.1; 0,61.1; 0,61.1; 0,61.1],"init_sample": None, "verbose": false, "meth": { "alpha": 1e+07 } }
+

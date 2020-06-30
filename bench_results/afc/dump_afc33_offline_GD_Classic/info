@@ -1,0 +1,16 @@
+name:afc33
+desc:afc33 - offline - GD_Classic
+prop:AFC33
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-0.000109767
+mean:2.02
+median:2
+cumulative_time:13426.8
+actual_time:1806.61
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [900,1100; 61.2,81.2; 61.2,81.2; 61.2,81.2; 61.2,81.2; 61.2,81.2; 61.2,81.2; 61.2,81.2; 61.2,81.2; 61.2,81.2; 61.2,81.2],"init_sample": None, "verbose": false, "meth": { "alpha": 1e+09 } }
+

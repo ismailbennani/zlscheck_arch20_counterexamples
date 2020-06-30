@@ -1,0 +1,19 @@
+name:autotrans_AT51_inst2
+desc:autotrans_AT51_inst2 - online - UR - GD_Classic
+prop:AT51_inst2
+n_repet:50
+n_runs:300
+n_falsif:50
+best_rob:-0.5
+mean:8.72
+median:12
+cumulative_time:81.3293
+actual_time:15.0863
+
+params:
+Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": () }
+
+Online Optim:
+{ "max_n_runs": 300 "bounds": [0,100; 0,350],"init_sample": None, "verbose": false, "meth": { "alpha": 1e+07 } }
+
